@@ -1,4 +1,9 @@
-### Hi there 👋
+### Ahoy! 👋
+
+My name is Alida Vermeer, and I'm a software development student enrolled at Manitoba Institute of Trades and Technology in Winnipeg, Manitoba. 
+- 🌱 I'm currently learning HTML5, CSS and JavaScript.
+- 💻 I don't have much coding experience yet, but 
+- 
 
 <!--
 **alidaVermeer/alidaVermeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
